@@ -1,7 +1,10 @@
+streamlit.stop()
+
 import streamlit   
 import pandas
 import requests
 import snowflake.connector
+import from urllib.error import URLError
 
 
 
